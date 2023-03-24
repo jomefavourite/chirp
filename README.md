@@ -1,3 +1,7 @@
+# Chirp
+
+This project is from following the [T3 Stack Tutorial](https://www.youtube.com/watch?v=YkOSUVzOAA4&t=205s) by [Theo](https://www.youtube.com/@t3dotgg)
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
